@@ -54,4 +54,3 @@ D2 <- D %>%
         summarize_each(funs(mean))
 
 write.table(D2, "analysis.txt", row.names = FALSE)
-write.csv(D2, file="analysis.csv")
