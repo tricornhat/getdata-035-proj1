@@ -1,8 +1,5 @@
 # getdata-035-proj1
 
-getdata-035-proj1
-=================
-
 The R script run_analysis.R loads data sample from a training session and a test
 session in a trial of Samsung Galaxy S accelerometer data.
 
@@ -27,24 +24,41 @@ being analyzed. Source https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfi
 > '-XYZ' is used to denote 3-axial signals in the X, Y and Z directions.
 > 
 > tBodyAcc-XYZ
+>
 > tGravityAcc-XYZ
+>
 > tBodyAccJerk-XYZ
+>
 > tBodyGyro-XYZ
+>
 > tBodyGyroJerk-XYZ
+>
 > tBodyAccMag
+>
 > tGravityAccMag
+>
 > tBodyAccJerkMag
+>
 > tBodyGyroMag
+>
 > tBodyGyroJerkMag
+>
 > fBodyAcc-XYZ
+>
 > fBodyAccJerk-XYZ
+>
 > fBodyGyro-XYZ
+>
 > fBodyAccMag
+>
 > fBodyAccJerkMag
+>
 > fBodyGyroMag
+>
 > fBodyGyroJerkMag
 > 
 > The set of variables that were estimated from these signals are:
 > 
 > mean(): Mean value
+>
 > std(): Standard deviation
